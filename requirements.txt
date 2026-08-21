@@ -1,0 +1,6 @@
+Dependencies:
+- opencv-python
+- numpy
+- harvesters
+- pandas
+- matplotlib
